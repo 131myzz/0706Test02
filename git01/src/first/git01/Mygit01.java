@@ -8,6 +8,9 @@ public class Mygit01 {
 		System.out.println("2222222222");
 		System.out.println("3333333333");
 		System.out.println("4444444444");
+		System.out.println("5555555555");
+		System.out.println("6666666666");
+		System.out.println("4444444444");
 		
 	}
 
